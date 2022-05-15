@@ -8,6 +8,9 @@ The client, Steve, wishes to help his parents diversify their stock portfolio in
 ## Results
 
 Test image
-/Resources/2017_Summary.PNG
+![Test Image](/Resources/2017_Summary.PNG)
+
+Test Image Dos
+![Test Image 2](/Resources/2018_Summary.PNG)
 
 ## Summary
